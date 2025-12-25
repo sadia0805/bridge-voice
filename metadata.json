@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Bridge-Voice",
+  "description": "A real-time multilingual speech-to-speech translation assistant designed to promote social inclusion by breaking language barriers at live events like lectures and seminars.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
